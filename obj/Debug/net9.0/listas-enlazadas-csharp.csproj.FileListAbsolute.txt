@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\bin\Debug\net9.0\listas-enlazadas-csharp.exe
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\bin\Debug\net9.0\listas-enlazadas-csharp.deps.json
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\bin\Debug\net9.0\listas-enlazadas-csharp.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\bin\Debug\net9.0\listas-enlazadas-csharp.dll
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\bin\Debug\net9.0\listas-enlazadas-csharp.pdb
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\listas-enlazadas-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\listas-enlazadas-csharp.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\listas-enlazadas-csharp.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\listas-enlazadas-csharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\listas-enlazadas-csharp.dll
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\refint\listas-enlazadas-csharp.dll
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\listas-enlazadas-csharp.pdb
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\listas-enlazadas-csharp.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Escritorio\universidad informatica\TERCER SEMESTRE\ESTRUCTURAS DE DATOS\listas-enlazadas-csharp\obj\Debug\net9.0\ref\listas-enlazadas-csharp.dll
